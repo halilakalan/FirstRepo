@@ -1,4 +1,4 @@
-**Halil ilk repo**
+# **Halil ilk repo**
 ---
 
 Bu repo [patika.dev](https://patika.dev) frontend eğitiminde oluşturduğum ilk repo ve markdown.
